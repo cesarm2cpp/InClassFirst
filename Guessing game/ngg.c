@@ -19,7 +19,6 @@ int main()
         printf("\npress 3 to quit");
         printf("\nSelection: ");
         scanf("%d", &x);
-        printf("Random number is: %d", x1);
         //Switch case allows user to select option above
         switch(x)
         {
@@ -57,11 +56,6 @@ int main()
                         if(x1>10)
                         {
                             printf("No numbers greater than 10");
-                        }
-                        if(x1 = x1)
-                        {
-                            printf("Value accepted!");
-                            break;
                         }
                         printf("\nChange max value to: ");
                         scanf("%d", &x1);
