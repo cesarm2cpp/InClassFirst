@@ -1,3 +1,12 @@
+/**
+*@file food.c
+*@author Cesar Martinez
+*@class CS2600-02
+*@Professor Nima Davarpanah
+*@Brief The program users to select a number 1-2 for guessing game, change the max value of guesing game, and quit program
+*@date  2021-09-28
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
