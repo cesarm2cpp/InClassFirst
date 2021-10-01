@@ -1,3 +1,13 @@
+/**
+*@file food.c
+*@author Cesar Martinez
+*@class CS2600-02
+*@Professor Nima Davarpanah
+*@Brief The program allows user to select a food from the menu and add a tip and tax
+
+*@date  2021-09-28
+*/
+
 #include <stdio.h>
 
 int main()
